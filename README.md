@@ -1,2 +1,4 @@
-# rick-discord-bot
-My first public Discord Bot
+# Rick Bot
+Welcome to Rick's GitHub page.
+
+***Currently in development.***
